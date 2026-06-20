@@ -3,6 +3,18 @@
 
 const POSTS = [
   {
+    title: "Continual Learning via Real-Time RL for Agents",
+    excerpt:
+      "A study on real-time RL for continual agent learning, introducing Population-Relative Policy Optimization (PRPO).",
+    date: "2026-06-22",
+    authors: "Linbo Liu, Yuzhe Lu, Youzhi Luo, Panpan Xu, and the rLLM Team",
+    readingTime: "17 min",
+    category: "Research",
+    link: "post.html?post=continual_learning.md",
+    cover: "g-emerald",
+    image: "assets/continual_learning/sync_async_training.png",
+  },
+  {
     title: "Hive: Collaborative Agent Evolution Platform",
     excerpt:
       "Hive is a collaborative platform for evolving and improving agents together. A swarm of agents iterate on shared tasks, learning from each other to push past what any single agent can reach alone.",
